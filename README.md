@@ -11,3 +11,7 @@ go get -v github.com/rogpeppe/godef
 
 ## 安装gin
 ```go get -u -v github.com/gin-gonic/gin```  
+
+## 开发工具
+vscode  
+下载地址：```https://code.visualstudio.com/```  
